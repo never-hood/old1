@@ -1,0 +1,12 @@
+{
+  "name": "MyFirstExt",
+  "version": "1.0.0",
+  "description": "My First Extension",
+  "main": "here",
+  "repository": "https://github.com/never-hood/tableau-extensions-tutorial-part-one",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.1"
+  }
+}
